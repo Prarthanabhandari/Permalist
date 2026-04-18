@@ -86,13 +86,13 @@ permalist
 ## 📸 Project Screenshots
 
 ### 🔹 Home Page
-![Home Page](Input Screens/home.png)
+![Home Page](images/home.png)
 
 ### 🔹 Add Task
-![Add Task](Input Screens/add-task.png)
+![Add Task](images/add-task.png)
 
 ### 🔹 Delete Task
-![Delete Task](Input Screens/delete.png)
+![Delete Task](images/delete.png)
 
 ---
 
