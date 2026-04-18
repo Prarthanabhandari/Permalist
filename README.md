@@ -47,7 +47,7 @@ Permalist Project/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/permalist-project.git
+git clone https://github.com/Prarthanabhandari/Permalist
 ```
 
 2. Navigate to project folder:
